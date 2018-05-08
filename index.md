@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+## Profile
 
-You can use the [editor on GitHub](https://github.com/god14fei/god14fei.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Xincai Fei,
+Key Laboratory of Services Computing Techonolgy and System, Ministry of Education,
+School of Computer Science and Technology,
+Huazhong University of Science and Technology.
+Phone: (+86) 15527367163
+Email: god14fei@hust.edu.cn
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Education
 
-### Markdown
+2014-present       Ph.D. Candidate in Computer Architechure, School of Computer Science and Technology, Huazhong University of Science and Technology, supersived by [Prof. Hai Jin](http://grid.hust.edu.cn/hjin/).
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+2010-2014           Bachelor of Engineer (B.Eng.) in Computer Science and Technology, School of Computer Science and Technology, Huazhong University of Science and Technology
 
-```markdown
-Syntax highlighted code block
+## Research Interests
 
-# Header 1
-## Header 2
-### Header 3
+Cloud Computing, Network Function Virtualization
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+## Publications
 
-**Bold** and _Italic_ and `Code` text
+1. Xincai Fei, Fangming Liu, Hong Xu, and Hai Jin, “Adaptive VNF Scaling and Flow Routing with Proactive Demand Prediction," in Proc. of IEEE International Conference on Computer Communications (INFOCOM), Honolulu, HI, USA, April 15-19, 2018.
 
-[Link](url) and ![Image](src)
-```
+2. Xincai Fei, Fangming Liu, Hong Xu, and Hai Jin, “Towards Load-balanced VNF Assignment inGeo-distributed NFV Infrastructure," in Proc. of IEEE/ACM International Symposium on Quality of Service (IWQoS), Vilanova i la Geltru, Spain, 14-16 June, 2017.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/god14fei/god14fei.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+3. Yipei Niu, Fangming Liu, Xincai Fei, and Bo Li, “Handling Flash Deals with Soft Guarantee in Hybrid Cloud," in Proc. of IEEE International Conference on Computer Communications (INFOCOM), Atlanta, Georgia, USA, 1-4 May, 2017.

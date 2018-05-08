@@ -1,15 +1,10 @@
 ## Profile
 
 Xincai Fei,
-
 Key Laboratory of Services Computing Techonolgy and System, Ministry of Education,
-
 School of Computer Science and Technology,
-
 Huazhong University of Science and Technology.
-
 Phone: (+86) 15527367163
-
 Email: god14fei@hust.edu.cn
 
 ## Education
